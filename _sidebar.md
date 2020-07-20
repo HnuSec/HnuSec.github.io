@@ -1,6 +1,6 @@
 * HnuSec 2020 Summer
 	
-	* [团队介绍](Intro.md)
+	* [团队介绍](/Intro.md)
 	* [招新计划](Plan.md)
 	* [学习资料](Stuff.md)
 	
