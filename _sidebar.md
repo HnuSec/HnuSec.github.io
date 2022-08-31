@@ -8,7 +8,7 @@
 	    * [Web](web/Plan.md)
 	    * [Crypto](crypto/Plan.md)
 	    * [PWN](pwn/Plan.md)
-	  * 历史
+	  * 2021 暑期
 	    * [Week1](Week1.md)
 	    * [WEB](Week2.md)
-
+	* [优秀笔记](https://github.com/HnuSec/HnuSec.github.io/tree/master/AwesomeNotes)
