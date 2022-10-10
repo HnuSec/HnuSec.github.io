@@ -14,9 +14,9 @@
 
 - 2022年9月 ByteCTF-字节跳动SRC，获全国第50名，一题二血
 
-  ![image.png](https://cdn.nlark.com/yuque/0/2022/png/27435314/1664191332939-9f88b754-a5ad-4fce-a399-d37dcc80e7de.png)
+  ![image.png](https://s2.loli.net/2022/10/10/9HJYa8RpQEZBuVj.jpg)
 
-  ![X03TMZD~NFEFTYB.jpg](https://cdn.nlark.com/yuque/0/2022/jpeg/27435314/1664193069539-b64d336a-3f84-486f-acc5-3eec00a7252a.jpeg)
+  ![X03TMZD~NFEFTYB.jpg](https://s2.loli.net/2022/10/10/6e3omKcSaOf1Atj.png)
 
 - 2022年7月 强网杯线上赛72/2358名（最终评审结果） - 获“强网先锋”称号
 
