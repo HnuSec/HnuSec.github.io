@@ -16,7 +16,7 @@
 
 - 2022年10月 “长安杯”电子数据取证竞赛一等奖 全国第8， 一队三等奖
 
-  ![长安杯](https://s2.loli.net/2022/11/26/uslL1PXh8gmVB7y.png)
+  ![changanbei.png](https://s2.loli.net/2022/11/26/uslL1PXh8gmVB7y.png)
 
 - 2022年9月 ByteCTF-字节跳动SRC，获全国第50名，一题二血
 
