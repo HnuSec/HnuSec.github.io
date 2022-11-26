@@ -12,6 +12,8 @@
 
 ### CTF
 
+- 2022年10月 “长安杯”电子数据取证大赛，一队一等奖全国第8，一队三等奖
+
 - 2022年9月 ByteCTF-字节跳动SRC，获全国第50名，一题二血
 
   ![image.png](https://s2.loli.net/2022/10/10/9HJYa8RpQEZBuVj.jpg)
