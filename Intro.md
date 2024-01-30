@@ -12,6 +12,26 @@
 
 ### CTF
 
+- 2024年1月 第七届西湖论剑 线上赛 第二名 亚军
+
+![image-20240130231453831](https://boogipop-1314143616.cos.ap-beijing.myqcloud.com/image-20240130231453831.png)
+
+![image-20240130231740147](https://boogipop-1314143616.cos.ap-beijing.myqcloud.com/image-20240130231740147.png)
+
+- 2023年12月 2023年海南省大学生网络攻防赛 四队包揽前四
+
+![img](https://boogipop-1314143616.cos.ap-beijing.myqcloud.com/1.png)
+
+![image-20240130231709103](https://boogipop-1314143616.cos.ap-beijing.myqcloud.com/image-20240130231709103.png)
+
+- 2023年12月 第六届安洵杯网络安全挑战赛  第八名
+
+![image-20240130232026153](https://boogipop-1314143616.cos.ap-beijing.myqcloud.com/image-20240130232026153.png)
+
+![image-20240130232036112](https://boogipop-1314143616.cos.ap-beijing.myqcloud.com/image-20240130232036112.png)
+
+- 2023年12月 强网杯 线上赛第十三名 三等奖
+
 - 2023年9月华为杯 第二届研究生网络安全创新大赛 **15名** 成功进入线下赛
 
 ![image-20231012101852567](https://boogipop-1314143616.cos.ap-beijing.myqcloud.com/image-20231012101852567.png)
@@ -129,16 +149,24 @@
 
 - 2023 某省级HW 第三名(三等奖 奖金2W)
 
+- 2023 海口网信办护网 第二名 亚军
+
+  ![image-20240130231759904](https://boogipop-1314143616.cos.ap-beijing.myqcloud.com/image-20240130231759904.png)
+
+![image-20240130231631741](https://boogipop-1314143616.cos.ap-beijing.myqcloud.com/image-20240130231631741.png)
+
+
+
 
 
 ## 战队活动室
 
 良好的学习气氛
 
-![image-20231012103336222](https://boogipop-1314143616.cos.ap-beijing.myqcloud.com/image-20231012103336222.png)
+![image-20240130232116705](https://boogipop-1314143616.cos.ap-beijing.myqcloud.com/image-20240130232116705.png)
 
-![image-20231012103341571](https://boogipop-1314143616.cos.ap-beijing.myqcloud.com/image-20231012103341571.png)
+![image-20240130232128529](https://boogipop-1314143616.cos.ap-beijing.myqcloud.com/image-20240130232128529.png)
 
-![image-20231012103356190](https://boogipop-1314143616.cos.ap-beijing.myqcloud.com/image-20231012103356190.png)
+![image-20240130232136381](https://boogipop-1314143616.cos.ap-beijing.myqcloud.com/image-20240130232136381.png)
 
-![image-20231012103402281](https://boogipop-1314143616.cos.ap-beijing.myqcloud.com/image-20231012103402281.png)
+![image-20240130232147358](https://boogipop-1314143616.cos.ap-beijing.myqcloud.com/image-20240130232147358.png)
